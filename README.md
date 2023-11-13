@@ -52,7 +52,7 @@ Contributions are welcome! If you'd like to contribute to this project, please o
 
 For any questions or suggestions, feel free to contact the project maintainers:
 
-- Your Name - [sonjoy.k.paul@gmail.com]
+- Sonjoy Kumar Paul - [sonjoy.k.paul@gmail.com]
 - Project Link: [GitHub Project Link](https://github.com/sonjoykp/29-card-game)
 
 ## Disclaimer
